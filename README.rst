@@ -1,6 +1,8 @@
 .. image:: https://secure.travis-ci.org/cobrateam/splinter.svg?branch=master
    :target: http://travis-ci.org/cobrateam/splinter
 
+---- EGGNITA FORK ----
+We forked this repo just to enable an additional flag for chrome driver
 
 ++++++++++++++++++++++++++++++++++++++++++++++++
 splinter - python tool for test web applications
